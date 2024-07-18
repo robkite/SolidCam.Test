@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidCam.Test", "SolidCam.Test\SolidCam.Test.csproj", "{9895B297-4243-4D39-8C7A-D81AEE231B64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9895B297-4243-4D39-8C7A-D81AEE231B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9895B297-4243-4D39-8C7A-D81AEE231B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9895B297-4243-4D39-8C7A-D81AEE231B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9895B297-4243-4D39-8C7A-D81AEE231B64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29B9BBBE-C5A8-430D-8777-775FA55763F1}
+	EndGlobalSection
+EndGlobal
